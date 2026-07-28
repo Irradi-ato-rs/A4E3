@@ -94,7 +94,7 @@ Compiler Substrate: Riemannian Geometry / Invariant-Based Runtime Control**
 
 **When independent AI agents, enterprise networks, or external APIs interact, they exit their isolated monolithic states and join a unified 8-dimensional interaction manifold. The global metric tensor $G\_\{\\mu\\nu\}$ is structured symmetrically to calculate cross-network tensor interference:**
 ```math
-**$$\\mathbf\{G\}\_\{\\mu\\nu\}(q\_A, q\_B) = \\begin\{pmatrix\} g\_\{ij\}^A(q\_A) & \\vline & \\mathcal\{I\}\_\{ik\}(C\_A, C\_B) \\\\ \\hline \\mathcal\{I\}\_\{jl\}(C\_A, C\_B) & \\vline & g\_\{kl\}^B(q\_B) \\end\{pmatrix\}$$ **
+**$$\ddot{q}_\text{global}^\mu + \Gamma^\mu_{\nu\lambda}\dot{q}_\text{global}^\nu\dot{q}_\text{global}^\lambda = -G^{\mu\kappa} \left( \alpha \frac{\partial \Vert\mathbf{K}_\text{global}\Vert^2}{\partial q^\kappa} + \sum_a \lambda_a \frac{\partial f^a}{\partial q^\kappa} \right)$$ **
 ```
 **Where $\\mathcal\{I\}\_\{ab\}$ represents the Interactions Coupling Tensor Block. It calculates the geometric resonance or destructive fracture generated when the operational velocities of System A interface with the governance boundaries of System B.**
 
@@ -128,7 +128,7 @@ Compiler Substrate: Riemannian Geometry / Invariant-Based Runtime Control**
 
 **The entire lifespan, behavior, and structural preservation of an enterprise AI ecosystem are completely governed by two synchronized differential field equations. This system of equations unifies short-term behavioral enforcement with long-term environment maintenance:**
 ```math
-**$$\\boxed\{\\begin\{cases\} \\ddot\{q\}^\\mu + \\Gamma^\\mu\_\{\\nu\\lambda\}\\dot\{q\}^\\nu\\dot\{q\}^\\lambda = -G^\{\\mu\\kappa\} \\left( \\alpha \\frac\{\\partial \\Vert\\mathbf\{K\}\_\\text\{global\}\\Vert^2\}\{\\partial q^\\kappa\} + \\lambda\_a \\frac\{\\partial f^a\}\{\\partial q^\\kappa\} \\right) & \\text\{(1. Trajectory Control: Solves Alignment and Exploits)\} \\\\ \\frac\{\\partial G\_\{\\mu\\nu\}\}\{\\partial t\} = -2\\mathbf\{R\}\_\{\\mu\\nu\} + \\beta\\mathbf\{T\}\_\{\\mu\\nu\} & \\text\{(2. Fabric Control: Solves AI Drift and Hardware Wear)\} \\end\{cases\}\}$$ **
+**$$\boxed{\begin{cases} \ddot{q}^\mu + \Gamma^\mu_{\nu\lambda}\dot{q}^\nu\dot{q}^\lambda = -G^{\mu\kappa} \left( \alpha \frac{\partial \Vert\mathbf{K}_\text{global}\Vert^2}{\partial q^\kappa} + \lambda_a \frac{\partial f^a}{\partial q^\kappa} \right) & \text{(1. Trajectory Control: Solves Alignment and Exploits)} \\ \frac{\partial G_{\mu\nu}}{\partial t} = -2\mathbf{R}_{\mu\nu} + \beta\mathbf{T}_{\mu\nu} & \text{(2. Fabric Control: Solves AI Drift and Hardware Wear)} \end{cases}}$$ **
 ```
 
 ## **6. Bare-Metal Architecture & Runtime Loop Subroutine**
