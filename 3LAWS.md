@@ -1,7 +1,7 @@
 ## **Engineering Specification Blueprint: The Unified Field Framework of Normative Social Physics for Deterministic AI Safety**
 
 **Version: 3.0.0-EDUCATIONAL  
-Classification: Technical Monograph / Formal Engineering Standards  
+Classification: Engineering Specification / Systemic Integrity Axiomatic 4 & Enablers 3  
 Compiler Substrate: Riemannian Geometry / Invariant-Based Runtime Control**
 
 
