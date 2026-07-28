@@ -49,7 +49,7 @@ Compiler Substrate: Riemannian Geometry / Invariant-Based Runtime Control**
 
 **To quantify systemic strain and cross-dimensional friction, we construct a symmetric, positive-definite 4×4 metric tensor $g\_\{ij\}(q)$. The off-diagonal entries calculate the interactive drag between different axioms, proving that an AI cannot aggressively scale performance without generating massive geometric resistance if its core purpose or data integrity is compromised.**
 
-g_{ij}(q) = \begin{pmatrix} S_{11} \cdot F(C) & c_{12}(S) & c_{13}(S) & 0 \\ c_{12}(S) & S_{22} \cdot F(C) & c_{23}(F) & c_{24}(F) \\ c_{13}(S) & c_{23}(F) & \Phi_{33} \cdot F(C) & c_{34}(\Phi) \\ 0 & c_{24}(F) & c_{34}(\Phi) & \Phi_{44} \cdot F(C) \end{pmatrix}   
+$ g_{ij}(q) = \begin{pmatrix} S_{11} \cdot F(C) & c_{12}(S) & c_{13}(S) & 0 \ c_{12}(S) & S_{22} \cdot F(C) & c_{23}(F) & c_{24}(F) \ c_{13}(S) & c_{23}(F) & \Phi_{33} \cdot F(C) & c_{34}(\Phi) \ 0 & c_{24}(F) & c_{34}(\Phi) & \Phi_{44} \cdot F(C) \end{pmatrix} `$
 
 **Where:**
 
