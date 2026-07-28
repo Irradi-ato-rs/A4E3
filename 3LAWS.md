@@ -102,7 +102,7 @@ Compiler Substrate: Riemannian Geometry / Invariant-Based Runtime Control**
 
 **To maintain deterministic safety across intersecting pipelines, the second law dictates that the composite multi-agent trajectory must solve the coupled global equation:**
 ```math
-**$$\\ddot\{q\}\_\\text\{global\}^\\mu + \\Gamma^\\mu\_\{\\nu\\lambda\}\\dot\{q\}\_\\text\{global\}^\\nu\\dot\{q\}\_\\text\{global\}^\\lambda = -G^\{\\mu\\kappa\} \\left( \\alpha \\frac\{\\partial \\Vert\\mathbf\{K\}\_\\text\{global\}\\Vert^2\}\{\\partial q^\\kappa\} + \\sum\_a \\lambda\_a \\frac\{\\partial f^a\}\{\\partial q^\\kappa\} \\right)$$ **
+\ddot{q}_\mathrm{global}^\mu + \Gamma^\mu_{\nu\lambda}\dot{q}_\mathrm{global}^\nu\dot{q}_\mathrm{global}^\lambda = -G^{\mu\kappa} \left( \alpha \frac{\partial \Vert\mathbf{K}_\mathrm{global}\Vert^2}{\partial q^\kappa} + \sum_a \lambda_a \frac{\partial f^a}{\partial q^\kappa} \right)   
 ```
 
 ## **4. The Third Fundamental Law: Topological Environmental Evolution**
