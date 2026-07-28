@@ -1,6 +1,6 @@
 ## **Engineering Specification Blueprint: The Unified Field Framework of Normative Social Physics for Deterministic AI Safety**
 
-**Version: 3.0.0-EDUCATIONAL  
+**Version: 3.0.0-EDUC  
 Classification: Engineering Specification / [Systemic Integrity Axiomatic 4 & Enablers 3](https://irradi.ato.rs/p/systemic-integrity-axiomatic-enablers.html),
 Compiler Substrate: Riemannian Geometry / Invariant-Based Runtime Control**
 
@@ -79,11 +79,11 @@ g_{ij}(q) = \begin{pmatrix} S_{11} \cdot F(C) & c_{12}(S) & c_{13}(S) & 0 \\ c_{
 
 **Applying the Principle of Stationary Action ($\\delta \\mathcal\{S\} = 0$) to the Action Integral $\\mathcal\{S\} = \\int \\mathcal\{L\} \\, dt$ yields the prescriptive differential equations of motion for a safe, bounded monolithic node:**
 ```math
-**$$\\ddot\{q\}^m + \\Gamma^m\_\{ij\}\\dot\{q\}^i\\dot\{q\}^j = -g^\{mk\} \\left( \\alpha \\frac\{\\partial \\Vert\{\}\\mathbf\{K\}\\Vert\{\}^2\}\{\\partial q^k\} + \\lambda\_a \\frac\{\\partial f^a\}\{\\partial q^k\} \\right)$$ **
+\ddot{q}^m + \Gamma^m_{ij}\dot{q}^i\dot{q}^j = -G^{mk} \left( \alpha \frac{\partial \Vert\mathbf{K}\Vert^2}{\partial q^k} + \lambda_a \frac{\partial f^a}{\partial q^k} \right)   
 ```
 **Where $\\Gamma^m\_\{ij\}$ represents the Christoffel symbols of the second kind, which map the natural, unforced geometric bending of the system architecture:**
 ```math
-**$$\\Gamma^m\_\{ij\} = \\frac\{1\}\{2\} g^\{mk\} \\left( \\frac\{\\partial g\_\{kj\}\}\{\\partial q^i\} + \\frac\{\\partial g\_\{ik\}\}\{\\partial q^j\} - \\frac\{\\partial g\_\{ij\}\}\{\\partial q^k\} \\right)$$ **
+\Gamma^m_{ij} = \frac{1}{2} g^{mk} \left( \frac{\partial g_{kj}}{\partial q^i} + \frac{\partial g_{ik}}{\partial q^j} - \frac{\partial g_{ij}}{\partial q^k} \right)   
 ```
 
 ## **3. The Second Fundamental Law: Multi-Agent Network Interaction**
@@ -94,7 +94,7 @@ g_{ij}(q) = \begin{pmatrix} S_{11} \cdot F(C) & c_{12}(S) & c_{13}(S) & 0 \\ c_{
 
 **When independent AI agents, enterprise networks, or external APIs interact, they exit their isolated monolithic states and join a unified 8-dimensional interaction manifold. The global metric tensor $G\_\{\\mu\\nu\}$ is structured symmetrically to calculate cross-network tensor interference:**
 ```math
-**$$\ddot{q}_\text{global}^\mu + \Gamma^\mu_{\nu\lambda}\dot{q}_\text{global}^\nu\dot{q}_\text{global}^\lambda = -G^{\mu\kappa} \left( \alpha \frac{\partial \Vert\mathbf{K}_\text{global}\Vert^2}{\partial q^\kappa} + \sum_a \lambda_a \frac{\partial f^a}{\partial q^\kappa} \right)$$ **
+\ddot{q}_\mathrm{global}^\mu + \Gamma^\mu_{\nu\lambda}\dot{q}_\mathrm{global}^\nu\dot{q}_\mathrm{global}^\lambda = -G^{\mu\kappa} \left( \alpha \frac{\partial \Vert\mathbf{K}_\mathrm{global}\Vert^2}{\partial q^\kappa} + \sum_a \lambda_a \frac{\partial f^a}{\partial q^\kappa} \right)   
 ```
 **Where $\\mathcal\{I\}\_\{ab\}$ represents the Interactions Coupling Tensor Block. It calculates the geometric resonance or destructive fracture generated when the operational velocities of System A interface with the governance boundaries of System B.**
 
