@@ -1,7 +1,7 @@
 ## **Engineering Specification Blueprint: The Unified Field Framework of Normative Social Physics for Deterministic AI Safety**
 
 **Version: 3.0.0-EDUC  
-Classification: Engineering Specification / [Systemic Integrity Axiomatic 4 & Enablers 3](https://irradi.ato.rs/p/systemic-integrity-axiomatic-enablers.html),
+Classification: Technical Monograph / [Systemic Integrity Axiomatic 4 & Enablers 3](https://irradi.ato.rs/p/systemic-integrity-axiomatic-enablers.html),
 Compiler Substrate: Riemannian Geometry / Invariant-Based Runtime Control**
 
 
