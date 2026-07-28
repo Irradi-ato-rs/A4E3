@@ -6,7 +6,7 @@ A mathematical framework for **AI Safety** and **Organizational Integrity** base
 
 Traditional AI safety relies on static constraints or probabilistic alignment. **A4E3** proposes a geometric approach: **integrity is not a rule to follow, but a geodesic to traverse.**
 
-By modeling an organization or AI system as a particle moving through a curved configuration space, we define safety as the **path of least resistance**. The framework provides both a **Newtonian formulation** (for real-time control and simulation) and an **Einsteinian formulation** (for theoretical validation of self-consistent spacetime dynamics).
+By modeling an organization or AI system as a particle moving through a curved configuration space, we define safety as the **path of least resistance**. The framework provides both a **Newtonian formulation** (for real-time control and simulation) and an **Einsteinian formulation** (not yet, for theoretical validation of self-consistent spacetime dynamics).
 
 ## The Mathematical Core
 
