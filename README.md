@@ -52,9 +52,9 @@ Current AI safety methods (RLHF, Constrained Optimization) act as **guardrails**
 
 ## NOTE / Mental Simulation
 
-A4E3’s underlying logic served as an instrumental, high-velocity decision engine for consultants, successfully recalibrating how teams internalize data and facilities in real-time client engagements.
+Before formalization, A4E3’s logic served consultants as a high-velocity engine, recalibrating how teams process data and leverage facilities in real-time.
 
-Transitioning from an implicit heuristic to an explicit mathematical model amplifies precision without altering utility. It provides a rigorous vocabulary to articulate expert intuition, making the shift from perception to insight seamless, reproducible and scalable. A4E3 demonstrates that robust system dynamics govern human thought long before we possess the notation to describe them.
+Transitioning from implicit heuristic to explicit math amplifies precision without altering utility. It articulates expert intuition, making the shift from perception to insight seamless, reproducible, and scalable. A4E3 proves fundamental system dynamics govern thought long before we possess the notation to define them.
 
 ---
 *Keywords: AI Safety, Geometric Mechanics, Lagrangian Control, Social Physics, Riemannian Geometry, Systemic Integrity*
