@@ -58,7 +58,7 @@ Transitioning from implicit heuristic to explicit math amplifies precision witho
 
 ## Caveat
 
-You have to strip the physics poetry in the [3LAWS](https://github.com/Irradi-ato-rs/A4E3/blob/main/3LAWS.md). However, you may also ask. An AI on its own i.e. drone, AV et? These are real. We'll show more how AI is trying to synthesize A4E3 here.
+You have to strip the physics poetry in the [3LAWS](https://github.com/Irradi-ato-rs/A4E3/blob/main/3LAWS.md). However, you may also ask. An AI on its own i.e. drone, AV et? These are real. The actual application makes one either a metaphorical physics or an unyielding of physical reality. We'll show more how AI is trying to synthesize A4E3 here.
 
 ---
 *Keywords: AI Safety, Geometric Mechanics, Lagrangian Control, Social Physics, Riemannian Geometry, Systemic Integrity*
