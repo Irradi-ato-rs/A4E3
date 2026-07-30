@@ -58,7 +58,7 @@ Transitioning from implicit heuristic to explicit math amplifies precision witho
 
 ## Caveat
 
-You have to strip the physics poetry in the [3LAWS](https://github.com/Irradi-ato-rs/A4E3/blob/main/3LAWS.md). Whe'll show more how AI is trying to synthesize A4E3 here.
+You have to strip the physics poetry in the [3LAWS](https://github.com/Irradi-ato-rs/A4E3/blob/main/3LAWS.md). We'll show more how AI is trying to synthesize A4E3 here.
 
 ---
 *Keywords: AI Safety, Geometric Mechanics, Lagrangian Control, Social Physics, Riemannian Geometry, Systemic Integrity*
