@@ -54,7 +54,11 @@ Current AI safety methods (RLHF, Constrained Optimization) act as **guardrails**
 
 Before formalization, A4E3’s logic served consultants as a high-velocity engine, recalibrating how teams process data and leverage facilities in real-time.
 
-Transitioning from implicit heuristic to explicit math amplifies precision without altering utility. It articulates expert intuition, making the shift from perception to insight seamless, reproducible, and scalable. A4E3 proves fundamental system dynamics govern thought long before we possess the notation to define them.
+Transitioning from implicit heuristic to explicit math amplifies precision without altering utility. It articulates expert intuition, making the shift from perception to insight seamless, reproducible, and scalable. A4E3 proves fundamental system dynamics govern thought long before we possess the notation to define them
+
+## Caveat
+
+You have to strip the physics poetry in the [3LAWS](https://github.com/Irradi-ato-rs/A4E3/blob/main/3LAWS.md). Whe'll show more how AI is trying to synthesize A4E3 here.
 
 ---
 *Keywords: AI Safety, Geometric Mechanics, Lagrangian Control, Social Physics, Riemannian Geometry, Systemic Integrity*
